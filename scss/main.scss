@@ -1,0 +1,95 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-image: url(/img-socks/descarga.jfif
+);
+}
+
+
+.kush {
+    color: white;
+}
+
+
+
+.destacados {
+    text-align: center;
+    color: white;
+    margin-top: 3rem;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+font-size: 4rem;
+}
+.tarjetas{
+    display: flex;
+    padding: 3rem;
+    justify-content: center;
+    gap: 2rem;
+}
+
+.card-title{
+    font-family:Arial, Helvetica, sans-serif;
+    font-size: x-large;
+    
+}
+
+.card-text{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.comprar{
+    background-color: black;
+    color: white;
+    padding: 1rem;
+    border-radius: 1rem;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+.footer {
+    background-color: none;
+    text-align: center;
+    padding: 7rem;
+    width: 100%;
+}
+
+.footer li a {
+    text-decoration: none;
+    color: #ecf0f1;
+    padding: 20px;
+    display: block;
+}
+
+.footer li {
+    display: inline-block;
+    text-align: center;
+}
+
+.formulario{
+    text-align: center;
+    padding: 2rem;
+    margin-top: 50px;
+    justify-content: space-between;
+}
+
+.main{
+    margin-top: 7rem;
+    margin: 5rem;
+    background-color: beige;
+    padding: 25px;
+    .main__que{
+    text-align: center;
+    font-size: 2rem;
+    font-family:Arial, Helvetica, sans-serif ;
+    }
+
+}
+
+.parrafo1{
+    text-align: center;
+    font-size: 20px;
+}
+
+
+
